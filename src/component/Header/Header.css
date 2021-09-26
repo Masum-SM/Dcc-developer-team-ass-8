@@ -1,0 +1,9 @@
+.header{
+    color: white;
+    font-weight: 700;
+    background-color: rgba(0, 0, 0, 0.856);
+    line-height: 50px;
+    word-spacing: 15px;
+    border: orange 3px solid;
+    margin-top: 0;
+}
