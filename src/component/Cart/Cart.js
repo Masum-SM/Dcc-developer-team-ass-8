@@ -20,7 +20,7 @@ const Cart = (props) => {
         <div className="calculed-cart" >
 
             <h3 className='member-len'>Members Added: {cart.length}  </h3>
-            <h4>Amount: {amount}</h4>
+            <h4>Amount: ${amount}</h4>
             <div>
                 {
                     // using map 

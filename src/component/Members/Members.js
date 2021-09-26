@@ -24,7 +24,7 @@ const Members = (props) => {
                         <p> <small> Age: {age}</small></p>
                         <p> <small>Job Place: {jobPlace}</small></p>
                         <p><small> Batch: {batch}</small></p>
-                        <p><small> Monthly Allotment: {moneny}</small></p>
+                        <p><small> Monthly Allotment: ${moneny}</small></p>
                     </div>
 
                     <div className='icon'>

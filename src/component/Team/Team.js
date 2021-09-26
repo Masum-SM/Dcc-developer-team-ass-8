@@ -22,7 +22,7 @@ const Team = () => {
     }
     return (
         <div>
-            <h2>Total Amount: 54700</h2>
+            <h2>Total Amount: $54700</h2>
             <div className="team-container">
                 <div className="members">
                     {
